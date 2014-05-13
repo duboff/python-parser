@@ -1,11 +1,11 @@
 python-parser
 =============
 
-Problem Set 7 @ Intro to Computer Science at MITx. This was done before I learned TDD and proper software design and serves here as a demonstration of python skill. 
+Problem Set 7 @ Intro to Computer Science at MITx. This was done before I learned TDD and proper software design and serves here as a demonstration of python skill.
 
 
-Instructions
-=============
+##Instructions
+
 
 In problem set 7, you will build a program to monitor news feeds over the Internet. Your program will filter the news, alerting the user when it notices a news story that matches that user's interests (for example, the user may be interested in a notification whenever a story related to the Red Sox is posted).
 
@@ -13,7 +13,7 @@ This problem set has a lot of words, but don't get intimidated! The staff soluti
 
 We recommend starting early because there is a lot of reading here, but you ought to be able to do this problem set sequentially in the order that we've laid out. There are a lot of references on Python classes available (look for classes in the readings listed in the Reference Links section of the webpage); here is the official Python tutorial on classes, sections 9.1-9.7 (excepting 9.5.1) will be useful for this pset.
 
-OBJECTIVES
+###OBJECTIVES
 
 The goal of this problem set is to help you become familiar and comfortable with the following topics:
 
